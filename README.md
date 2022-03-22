@@ -1,1 +1,1 @@
-# step-progress html, css and JavaScript
+# step-progress html, css and JavaScript.
